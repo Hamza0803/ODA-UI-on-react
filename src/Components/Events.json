@@ -1,0 +1,75 @@
+[
+    {
+        "Time": "9:01 AM",
+        "title": "Event 1",
+        "description": "2127 Moving East",
+        "xcod": "25 30 0.00 S",
+        "ycod": "51 48 0.00 W",
+        "image": "./images/LogBar/Timeline/Truck.png",
+        "displayTime": 1000
+    },
+    {
+        "Time": "9:11 AM",
+        "title": "Event 2",
+        "description": "188 Travelling South",
+        "xcod": "25 30 0.00\" S",
+        "ycod": "51 48 0.00\" W",
+        "image": "./images/LogBar/Timeline/Truck2.png",
+        "displayTime": 2000
+    },
+    {
+        "Time": "10:22 AM",
+        "title": "Event 3",
+        "description": "201 Travelling West",
+        "xcod": "25 30 0.00\" S",
+        "ycod": "51 48 0.00\" W",
+        "image": "./images/LogBar/Timeline/image 21.png",
+        "displayTime": 2000
+    },
+    {
+        "Time": "10:24 AM",
+        "title": "Event 4",
+        "description": "166 Travelling North-West",
+        "xcod": "25 30 0.00\" S",
+        "ycod": "51 48 0.00\" W",
+        "image": "./images/LogBar/Timeline/car.png",
+        "displayTime": 3000
+    },
+    {
+        "Time": "10:28 AM",
+        "title": "Event 5",
+        "description": "153 Travelling North",
+        "xcod": "5 30 0.00\" S",
+        "ycod": "51 48 0.00\" W",
+        "image": "./images/LogBar/Timeline/Truck.png",
+        "displayTime": 5000
+
+    },
+    {
+        "Time": "11:01 AM",
+        "title": "Event 6",
+        "description": "225 Travelling South-East",
+        "xcod": "25 30 0.00\" S",
+        "ycod": "51 48 0.00\" W",
+        "image": "./images/LogBar/Timeline/Truck.png",
+        "displayTime": 3000
+    },
+    {
+        "Time": "11:01 AM",
+        "title": "Event 7",
+        "description": "225 Travelling South-East",
+        "xcod": "25 30 0.00\" S",
+        "ycod": "51 48 0.00\" W",
+        "image": "./images/LogBar/Timeline/Truck.png",
+        "displayTime": 3000
+    },
+    {
+        "Time": "11:01 AM",
+        "title": "Event 8",
+        "description": "225 Travelling South-East",
+        "xcod": "25 30 0.00\" S",
+        "ycod": "51 48 0.00\" W",
+        "image": "./images/LogBar/Timeline/Truck.png",
+        "displayTime": 7000
+    }
+]
